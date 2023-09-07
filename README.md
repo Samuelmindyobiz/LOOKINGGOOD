@@ -63,3 +63,53 @@ rm -r <directory name>
 ````
 
 
+## What are Git Commands?
+
+> These are distributed ***version control system*** for tracking changes in any set of files.
+
+
+#### Examples of Git Commands 
+
+1. To ***initialize*** Git
+
+```
+git init
+```
+2. To see what ***branch*** you are on
+
+```
+git branch
+```
+3. To see what's happening in the git repository
+
+```
+git status
+```
+4. To list all Branches
+
+```
+git branch -a
+```
+5. To track a file or add it
+
+````
+git add <name of file>
+````
+6. To commit a file
+
+````
+git commit -m <text>
+````
+7. To see all commits that have been made
+
+````
+git log 
+````
+8. To create a ***branch***
+
+````
+git branch <name of branch>
+````
+
+
+
